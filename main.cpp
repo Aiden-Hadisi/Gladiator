@@ -1,5 +1,5 @@
 // Author: Aiden Hadisi
-// CPSC Lab8
+// CPSC 121
 // 12/05/2018
 
 
