@@ -22,12 +22,11 @@ public:
 	int getCurHealth();
 
 	//Calculates a damage roll based on dmgMin, dmgRange, and crit
-	//This would be a good place to display a crit notification
 	int rollDamage();
 
 	//Displays gladiator's stats, in one or two lines so it's pleasing in a list
 	void display();//you're responsible for defining this function
 
-	//Hint: Evasion should be calculated here
+	
 	bool takeDamage(int dmgAmt);//Returns whether the gladiator was killed by the damage or not
 };
